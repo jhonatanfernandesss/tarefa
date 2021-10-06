@@ -1,7 +1,7 @@
 {
-  "name": "demo-github-actions",
+  "name": "tarefa pull_request e actions",
   "version": "1.0.0",
-  "description": "Demo for using Github Actions",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/colbyfayock/demo-github-actions.git"
   },
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Jhonatan ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colbyfayock/demo-github-actions/issues"
+    "url": "https://github.com/jhonatanfernandesss/tarefa"
   },
-  "homepage": "https://github.com/colbyfayock/demo-github-actions#readme",
+  "homepage": "https://github.com/jhonatanfernandesss/tarefa",
   "devDependencies": {
     "jest": "^26.0.1"
   }
